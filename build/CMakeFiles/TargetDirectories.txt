@@ -1,0 +1,3 @@
+/home/mavenai/Documents/fmnist/build/CMakeFiles/rebuild_cache.dir
+/home/mavenai/Documents/fmnist/build/CMakeFiles/edit_cache.dir
+/home/mavenai/Documents/fmnist/build/CMakeFiles/main.dir
